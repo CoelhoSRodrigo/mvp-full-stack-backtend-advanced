@@ -1,6 +1,6 @@
 # Meu MVP - Backend API
 
-Projeto de MVP do backend do módulo Desenvolvimento Full Stack Básico da especialização online **Pós-Graduação em Desenvolvimento Full Stack**, do Departamento de Informática da PUC-Rio.
+Projeto de MVP do módulo Desenvolvimento Back-end Avaçando da especialização online **Pós-Graduação em Desenvolvimento Full Stack**, do Departamento de Informática da PUC-Rio.
 
 Aluno: **Rodrigo dos Santos Coelho** (*https://www.linkedin.com/in/rodrigoscoelho/*)
 
@@ -8,13 +8,16 @@ Aluno: **Rodrigo dos Santos Coelho** (*https://www.linkedin.com/in/rodrigoscoelh
 ## Primeiros passos
 
 Para executar este projeto é necessário que todas as libs Python descritas no arquivo `requirements.txt` sejam instaladas. 
-Após clonar o repositório do GitHub (*https://github.com/CoelhoSRodrigo/mvp-full-stack-basico-backend/*), é necessário ir ao diretório raiz, pelo terminal do Visual Studio Code, para que possa executar os comandos descritos abaixo.
+Após clonar o repositório do GitHub (*https://github.com/CoelhoSRodrigo/mvp-full-stack-backtend-advanced/*), é necessário ir ao diretório raiz, pelo terminal do Visual Studio Code, para que possa executar os comandos descritos abaixo.
 
 ```
-python3 -m venv env
+python3 -m venv env  (Linux ou macOS)
+python -m venv env  (Windows)
 ```
 ```
-source env/bin/activate
+source env/bin/activate (Linux ou macOS)
+.\env\Scripts\Activate.ps1 (Windows)
+
 ```
 
 > O primeiro comando `python3 -m venv env`, iremos utilizar para a criação do ambiente virtual, já o segundo comando, `source env/bin/activate`, será para ativá-lo.
