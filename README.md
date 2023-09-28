@@ -1,6 +1,6 @@
-# Meu MVP - Backend API
+# MVP PUC-Rio Doghouses - Rodrigo Coelho
 
-Projeto de MVP do módulo Desenvolvimento Back-end Avaçando da especialização online **Pós-Graduação em Desenvolvimento Full Stack**, do Departamento de Informática da PUC-Rio.
+Projeto de MVP do módulo Desenvolvimento Back-end Avaçando da **Pós-Graduação em Desenvolvimento Full Stack**, do Departamento de Informática da PUC-Rio.
 
 Aluno: **Rodrigo dos Santos Coelho** (*https://www.linkedin.com/in/rodrigoscoelho/*)
 
