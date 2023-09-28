@@ -1,4 +1,4 @@
-# MVP PUC-Rio Doghouses - Rodrigo Coelho
+# MVP PUC-Rio Doghouses - Back-end
 
 Projeto de MVP do módulo Desenvolvimento Back-end Avaçando da **Pós-Graduação em Desenvolvimento Full Stack**, do Departamento de Informática da PUC-Rio.
 
