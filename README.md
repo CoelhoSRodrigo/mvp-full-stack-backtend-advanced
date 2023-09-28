@@ -5,6 +5,11 @@ Projeto de MVP do módulo Desenvolvimento Back-end Avaçando da **Pós-Graduaç�
 Aluno: **Rodrigo dos Santos Coelho** (*https://www.linkedin.com/in/rodrigoscoelho/*)
 
 ---
+##  Vídeo Youtube
+
+https://www.youtube.com/watch?v=SL4zf5Aanl0
+
+---
 ## Primeiros passos
 
 Para executar este projeto é necessário que todas as libs Python descritas no arquivo `requirements.txt` sejam instaladas. 
